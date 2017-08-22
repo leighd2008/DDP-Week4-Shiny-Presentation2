@@ -12,7 +12,7 @@ knit        : slidify::knit2slides
 
 ---
 
-## Carbon Dioxide Uptake in Grass Plants - App
+## Carbon Dioxide Uptake in Grass Plants-App
 
 The Carbon Dioxide (CO2) Uptake in Grass Plants App allows the user to examine the difference in CO2 uptake between Mississippi and Quebec, as well as between chilled and non-chilled plants.
 
@@ -22,7 +22,7 @@ The R code and documentation can be found at: https://github.com/leighd2008/DDP-
 
 ---
 
-## Carbon Dioxide Uptake in Grass Plants - Data
+## Carbon Dioxide Uptake in Grass Plants-Data
 
 The CO2, uptake of six plants from Quebec and six plants from Mississippi was measured at several levels of ambient CO2 concentration. Half the plants of each type were chilled overnight before the experiment was conducted.
 
@@ -35,7 +35,7 @@ Polynomial regression was used to fit a model for each of the four Location - Tr
 
 
 --- 
-## Carbon Dioxide Uptake in Grass Plants - Model fit
+## Carbon Dioxide Uptake in Grass Plants-Model fit
 ANOVA output for polynomial regression fit. The highest order fit showing significance for each Location - Treatment group was choosen as the model
 
 ```
@@ -57,7 +57,7 @@ ANOVA output for polynomial regression fit. The highest order fit showing signif
 ```
 
 --- 
-## Carbon Dioxide Uptake in Grass Plants - Prediction
+## Carbon Dioxide Uptake in Grass Plants-Prediction
 The prediction tab allows provides a slider bar for the user to choose an ambient CO2 concentration and then displays the CO2 uptake for each of the four Location - Treatment groups based on their individual model fit.
 
 
